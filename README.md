@@ -6,24 +6,9 @@
       </a>
       <a href="https://golang.org/">
       <img src="https://img.shields.io/badge/Go-1.17-7fd5ea.svg" />
-      </a>
-      <a href="https://github.com/gravitational/teleport/blob/master/CODE_OF_CONDUCT.md">
-      <img src="https://img.shields.io/badge/Contribute-🙌-green.svg" />
-      </a>
-      <a href="https://www.apache.org/licenses/LICENSE-2.0">
-      <img src="https://img.shields.io/badge/Apache-2.0-red.svg" />
-      </a>
-   </div>
-</div>
-</br>
+      </a>=
 
-> Read our Blog: https://goteleport.com/blog/
 
-> Read our Documentation: https://goteleport.com/docs/getting-started/
-
-## Table of Contents
-
-1. [Introduction](#introduction)
 1. [Installing and Running](#installing-and-running)
 1. [Docker](#docker)
 1. [Building Teleport](#building-teleport)
